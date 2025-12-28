@@ -1,0 +1,20 @@
+{
+  "en": {
+    "welcome": "Welcome to Calculatron 9000!",
+    "first": "What's the first number?",
+    "second": "What's the second number?",
+    "invalid_number": "Have you forgotten what a valid number looks like?",
+    "operation": "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+    "operation_choice": "You must choose 1, 2, 3, or 4",
+    "repeat": "Would you like to perform another operation? (y/n): "
+  },
+  "fr": {
+    "welcome": "Bienvenue à bord du Calculatron 9000 !",
+    "first": "Quel est le premier nombre ?",
+    "second": "Quel est le deuxième nombre ?",
+    "invalid_number": "Avez-vous oublié à quoi ressemble un numéro valide ?",
+    "operation": "Quelle opération souhaitez-vous effectuer ?\n1) Additionner 2) Soustraire 3) Multiplier 4) Diviser",
+    "operation_choice": "Vous devez choisir 1, 2, 3 ou 4",
+    "repeat": "Souhaitez-vous effectuer une autre opération ? (y/n) : "
+  }
+}
