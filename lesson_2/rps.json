@@ -2,5 +2,7 @@
     "rules": "Welcome, Player! Scissors cuts Paper, Paper covers Rock, Rock crushes Lizard, Lizard poisons Spock, Spock smashes Scissors, Scissors decapitates Lizard, Lizard eats Paper, Paper disproves Spock, Spock vaporizes Rock, and Rock crushes Scissors",
     "instruction": "Enter 'r' for rock, 'p' for paper, 'sc' for scissors, 'l' for lizard, and 'sp' for spock:",
     "again": "Play again? (y/n)",
-    "again_validate": "Please enter 'y' or 'n': "
+    "again_validate": "Please enter 'y' or 'n': ",
+    "player_win": "Congrats, you won!",
+    "computer_win": "You lost, better luck next time!"
 }
